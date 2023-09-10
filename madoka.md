@@ -3,6 +3,7 @@
   - [上映时间](#上映时间)
   - [官方网站](#官方网站)
   - [资料引用](#资料引用)
+  - [PV](#pv)
 
 ![Alt text](334105_7PE61-1-1.jpg)
 # 剧场版 魔法少女小圆 魔女之夜的回天
@@ -27,3 +28,6 @@
 
 ## 资料引用
 来自网站[Bangumi](https://bgm.tv/subject/334105)
+
+## PV
+[点击链接](https://www.bilibili.com/video/BV1QF411S7me/)
